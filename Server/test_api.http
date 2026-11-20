@@ -1,0 +1,8 @@
+POST http://localhost:8080/registrazione
+Content-Type: application/json
+
+{
+  "nome": "Tech Corp",
+  "email": "info@tech.com",
+  "password": "password123"
+}

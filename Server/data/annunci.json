@@ -1,0 +1,23 @@
+[
+  {
+    "titolo": "Social Media Manager",
+    "descrizione": "Siamo alla ricerca di una figura creativa e analitica per gestire i profili Instagram, TikTok e LinkedIn del nostro brand. Le attività principali includono la creazione del piano editoriale mensile, la realizzazione di brevi video (Reels/TikTok), il monitoraggio delle campagne a pagamento e l'analisi dei KPI.",
+    "azienda": "VerdeVivo",
+    "email_azienda": "verde@gmail.com",
+    "id": "1795185796151"
+  },
+  {
+    "titolo": "Sviluppatore Front-End Junior",
+    "descrizione": "Siamo alla ricerca di una figura creativa e analitica per gestire i profili Instagram, TikTok e LinkedIn del nostro brand. Le attività principali includono la creazione del piano editoriale mensile, la realizzazione di brevi video (Reels/TikTok), il monitoraggio delle campagne a pagamento e l'analisi dei KPI.",
+    "azienda": "NexaTech Solution S.r.l.",
+    "email_azienda": "nexa@gmail.com",
+    "id": "1795186125141"
+  },
+  {
+    "titolo": "Customer Care e Gestione Ordini",
+    "descrizione": "La risorsa sarà il punto di riferimento per i clienti B2B e B2C nella gestione delle spedizioni. Si occuperà di rispondere a email e chiamate, tracciare pacchi in transito, gestire eventuali reclami o resi e inserire i dati nel gestionale aziendale.",
+    "azienda": "Logistica Express Italia S.p.A.",
+    "email_azienda": "logistica@gmail.com",
+    "id": "1795186196705"
+  }
+]
